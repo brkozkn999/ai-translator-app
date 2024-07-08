@@ -93,11 +93,11 @@ const Home: React.FC = () => {
       <div className="relative h-screen">
         <div className="overflow-hidden  max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 py-10 sm:py-24">
           <div className="text-center">
-            <h1 className="text-4xl sm:text-6xl font-bold text-neutral-200">Berk's
+            <h1 className="text-4xl sm:text-6xl font-bold text-neutral-200">Berk&apos;s
               <span className="bg-gradient-to-r from-blue-500 via-indigo-400 to-blue-500 bg-clip-text text-transparent">Translator</span>
             </h1>
             <p className="mt-3 text-neutral-400">
-              Berk's<span className="bg-gradient-to-r from-blue-700 via-indigo-300 to-blue-700 bg-clip-text text-transparent">Translator</span>: Bridging Voices , Connecting Worlds
+              Berk&apos;s<span className="bg-gradient-to-r from-blue-700 via-indigo-300 to-blue-700 bg-clip-text text-transparent">Translator</span>: Bridging Voices , Connecting Worlds
             </p>
             <div className="mt-7 sm:mt-12 mx-auto max-w-3xl relative">
               <div className="grid gap-4 md:grid-cols-2 grid-cols-1">
